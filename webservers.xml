@@ -1,3 +1,4 @@
 <webservers>
+	<server>Nginx</server>
 	<server>Apache HTTP Server</server>
 </webservers>
