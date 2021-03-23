@@ -1,3 +1,5 @@
 <systems>
 	<os>Linux Ubuntu</os>
+	<os>Windows 10</os>
+	<os>Windows Server 2016</os>
 </systems>
